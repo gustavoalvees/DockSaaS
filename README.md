@@ -18,7 +18,7 @@ DockSaaS é um sistema SaaS que permite criar e gerenciar containers Docker de f
 
 ##  Instalação
 ```bash
-git clone https://github.com/<seu-usuario>/docksaas.git
+git clone https://github.com/gustavoalvees/docksaas.git
 cd docksaas
 pip install -r requirements.txt
 uvicorn main:app --reload
